@@ -1,0 +1,36 @@
+.carousel {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 15px;
+}
+
+.carousel__item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    @include media-mobile {
+       h3 {
+        font-size: 3rem;
+        line-height: 3px;
+       }
+    }
+}
+
+.carousel__picture {
+    @include media-tablet {
+        width: 40vw;
+    }
+
+}
+
+.carousel__link {
+    text-decoration: none;
+    &:hover {
+        h3 {
+            text-shadow: 1px 1px 1px $color-main-light;
+        }
+    }
+}
+
