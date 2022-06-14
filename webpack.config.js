@@ -34,8 +34,8 @@ module.exports = (env, options) => { // это environment, в options можн�
                         MiniCssExtractPlugin.loader, 'css-loader', 'sass-loader' // webpack читает лоудеры в обратной последовательности //
                     ]
                 }, {
-                    test: /\.(png|svg|jpe?g|gif|ico)$/i,
-                    type: 'asset/resource',
+                    test: /\.(png|svg|jpe?g|gif|ico)$/i, 
+                    type: 'asset/resource', // это новая встроенная фича 5 версии. теперь нет проблем с пропавшими картинками //
                 }, {
                     test: /\.html$/,
                     loader: "html-loader",
