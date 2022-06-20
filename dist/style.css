@@ -763,19 +763,19 @@ ul li a {
     transform: rotate(180deg); }
 
 .button__open-close {
-  background-image: url(9b038f6de800a6623f79.svg);
+  background-image: url(0c0f13c9a271e31f58f3.svg);
   width: 80px;
   height: 50px; }
   .button__open-close:hover {
-    background-image: url(9d47315b455f833b767d.svg); }
+    background-image: url(1579a93c943a15b44002.svg); }
 
 .start-screen__telegram {
-  background-image: url(8cdfe38b34fe26cde647.svg);
+  background-image: url(91e3fedeac3604504577.svg);
   background-size: 100% 100%;
   width: 150px;
   height: 150px; }
   .start-screen__telegram:hover {
-    background-image: url(0f7174f22bfacb80fb86.svg); }
+    background-image: url(566b12dc0761cf2dcd2f.svg); }
   @media (max-width: 768px) {
     .start-screen__telegram {
       width: 100px;
@@ -786,12 +786,12 @@ ul li a {
       height: 80px; } }
 
 .start-screen__discord {
-  background-image: url(51b7c012ccbe6ae683ee.svg);
+  background-image: url(e94fa0fd2112168d794a.svg);
   background-size: 100% 100%;
   width: 150px;
   height: 150px; }
   .start-screen__discord:hover {
-    background-image: url(37f370787a650a309965.svg); }
+    background-image: url(b06ea513ee46523016e1.svg); }
   @media (max-width: 768px) {
     .start-screen__discord {
       width: 100px;
@@ -802,12 +802,12 @@ ul li a {
       height: 80px; } }
 
 .start-screen__github {
-  background-image: url(4b74b7fae66d4ff13695.svg);
+  background-image: url(e4f74ac65bb7cd1da622.svg);
   background-size: 100% 100%;
   width: 150px;
   height: 150px; }
   .start-screen__github:hover {
-    background-image: url(4a2646ca95ee0c5c0657.svg); }
+    background-image: url(1cde7c9f35d85e860d5c.svg); }
   @media (max-width: 768px) {
     .start-screen__github {
       width: 100px;
@@ -818,12 +818,12 @@ ul li a {
       height: 80px; } }
 
 .start-screen__email {
-  background-image: url(9fe43c50ba20c2545bb6.svg);
+  background-image: url(382739a01da6422f43c2.svg);
   background-size: 100% 100%;
   width: 150px;
   height: 150px; }
   .start-screen__email:hover {
-    background-image: url(400cb5157027d91e6855.svg); }
+    background-image: url(a28085d726ff39963481.svg); }
   @media (max-width: 768px) {
     .start-screen__email {
       width: 100px;
@@ -840,19 +840,19 @@ ul li a {
   width: 50px;
   height: 50px; }
   .button .button__download {
-    background-image: url(359a8e98643b8090e3ce.svg);
+    background-image: url(6a72c53851a0d0a3c17f.svg);
     width: 50px;
     height: 50px; }
     .button .button__download:hover {
-      background-image: url(f7e36b320d4a1004609b.svg); }
+      background-image: url(34f61a3a92d93597aecf.svg); }
 
 .footer__telegram {
-  background-image: url(67f32857c1e9fbac9a73.svg);
+  background-image: url(003de7d132a4a79a2b90.svg);
   background-size: 100% 100%;
   width: 100px;
   height: 100px; }
   .footer__telegram:hover {
-    background-image: url(00003934aebe78b9dd7f.svg); }
+    background-image: url(977bd18dc5bcea044008.svg); }
   @media (max-width: 768px) {
     .footer__telegram {
       width: 80px;
@@ -863,12 +863,12 @@ ul li a {
       height: 80px; } }
 
 .footer__discord {
-  background-image: url(f099c92be3fe35b057d5.svg);
+  background-image: url(c18413d8020e52eff7c0.svg);
   background-size: 100% 100%;
   width: 100px;
   height: 100px; }
   .footer__discord:hover {
-    background-image: url(3f4cbb7c0f9b229f4a9b.svg); }
+    background-image: url(c58c019ef2a8f2003825.svg); }
   @media (max-width: 768px) {
     .footer__discord {
       width: 80px;
@@ -879,12 +879,12 @@ ul li a {
       height: 80px; } }
 
 .footer__github {
-  background-image: url(d34fe7e28944910315e4.svg);
+  background-image: url(7b8efc1b581e4345e726.svg);
   background-size: 100% 100%;
   width: 100px;
   height: 100px; }
   .footer__github:hover {
-    background-image: url(95145360191c25e06ec8.svg); }
+    background-image: url(4f70ac0d35925d9ef402.svg); }
   @media (max-width: 768px) {
     .footer__github {
       width: 80px;
@@ -895,12 +895,12 @@ ul li a {
       height: 80px; } }
 
 .footer__email {
-  background-image: url(bd8cedfcf50980524dae.svg);
+  background-image: url(7d893055cdb84e5bf7fa.svg);
   width: 100px;
   height: 100px;
   background-size: 100% 100%; }
   .footer__email:hover {
-    background-image: url(bb425ac9b03c500eac9e.svg); }
+    background-image: url(6b14c2c3efcb63b987e7.svg); }
   @media (max-width: 768px) {
     .footer__email {
       width: 80px;
@@ -911,23 +911,23 @@ ul li a {
       height: 80px; } }
 
 .carousel__button_left {
-  background-image: url(3d3f455f5abefb8e2d52.svg);
+  background-image: url(40fbb8bd808be84fe4e3.svg);
   width: 50px;
   height: 80px; }
   .carousel__button_left:hover {
-    background-image: url(53cc94c598b6094e8bda.svg); }
+    background-image: url(3085843e1320b51b4fc7.svg); }
 
 .carousel__button_right {
-  background-image: url(adb2ff8c3e1ce5afd793.svg);
+  background-image: url(434bf1e53618852b3b5e.svg);
   width: 50px;
   height: 80px; }
   .carousel__button_right:hover {
-    background-image: url(a03a3e9397c03c566c20.svg); }
+    background-image: url(d32fbea35e6b4813956c.svg); }
 
 .scroll_button {
   display: none;
   height: 100%;
-  background-image: url(5a7d8cd87326c294d027.svg);
+  background-image: url(8d9a5c7711992e2f6eef.svg);
   width: 80px;
   height: 50px;
   position: fixed;
@@ -935,7 +935,7 @@ ul li a {
   right: 2%;
   z-index: 999; }
   .scroll_button:hover {
-    background-image: url(dea8df4581a01aa6dc79.svg); }
+    background-image: url(586630ff9327d7f2ebc0.svg); }
   .scroll_button-active {
     display: block; }
 
